@@ -1,0 +1,32 @@
+{
+    "results":[
+        {
+            "id": "1",
+            "plato": "Carpaccio fresco",
+            "descrip":"Entrada Carpaccio de salmón con cítricos",
+            "price":65.50,
+            "img":"Carpaccio-de-salmon.jpg"
+        },
+        {
+            "id": "2",
+            "plato": "Rissoto de berenjena",
+            "descrip":"Risotto de berenjena y queso de cabra",
+            "price":47.00,
+            "img":"Risotto-berenjena-queso-cabra.jpg"
+        },
+        {
+            "id": "3",
+            "plato": "Mousse de arroz",
+            "descrip":"Mousse de arroz con leche y aroma de azahar",
+            "price":27.50,
+            "img":"Mousse-de-arroz-con-leche.jpg"
+        },
+        {
+            "id": "4",
+            "plato": "Esparragos blancos",
+            "descrip":"Espárragos blancos con vinagreta de verduras y jamón ibérico",
+            "price":37.50,
+            "img":"esparragos.png"
+        }
+    ]
+}
